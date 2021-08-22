@@ -1,0 +1,141 @@
+/**
+ * style rules for "header portion of web page
+ **/
+
+body {
+	margin: 0px;
+}
+
+#header {
+	background-color: lightblue;
+	margin: 0px;
+}
+
+#header-content {
+	max-width: 1000px;
+	margin: auto;
+
+}
+
+#title {
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#title h1 {
+ display: inline-block;
+ margin-bottom: 0px;
+}
+
+#email {
+	 margin-left: 5px;
+	 font-style: italic;
+	 margin-top: 0px;
+}
+
+#links-header {
+	display: inline-block;
+	margin: auto;
+	float: right;
+	margin-right: 10px;
+	padding-top:  5px;
+}
+
+#links-header li {
+	display: inline;
+	text-align:center;
+	margin-right: 10px;
+	margin-top: 10px;
+	vertical-align: text-bottom;
+}
+
+.link-images {
+	width:24px;
+	height:24px;
+	vertical-align: text-bottom;
+
+}
+
+#gpg-header {
+	display: inline-block;
+	float: right;
+}
+#nav-header {
+	display: block;
+}
+
+#nav-header li {
+	display: inline;
+	text-align:center;
+	margin-right: 10px;
+}
+
+#self-photo {
+	height: 400px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+#header-line {
+	height: 1px;
+	background-color: black;
+}
+/**
+ * Style Rules for main text of page
+ **/
+.page-body {
+	max-width: 1000px;
+	margin:auto;
+	padding-left:5px;
+
+}
+
+.text {
+	max-width: 700px;
+}
+
+
+#espresso_setup {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-right: 300px;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
